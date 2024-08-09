@@ -14,6 +14,8 @@ This is a simple React Native app that fetches and displays user information fro
    git clone https://github.com/Ajitesh2003/Profile_viewer.git
 2. Navigate to the project directory:
 ```bash
-cd Profile_viewer
+cd Profile_viewer.
 
-
+3. install dependencies:
+```bash
+npm install 
