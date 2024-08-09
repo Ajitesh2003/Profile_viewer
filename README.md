@@ -28,4 +28,8 @@ npm install
 The app is designed to work on both Android and iOS.
 You can view the code directly in the App.js file.
 
+you can view the App directly from the URL.
+```bash
+exp://exp.host/@ajitesh_aarash/profile-viewer
+```
 
