@@ -14,8 +14,18 @@ This is a simple React Native app that fetches and displays user information fro
    git clone https://github.com/Ajitesh2003/Profile_viewer.git
 2. Navigate to the project directory:
 ```bash
-cd Profile_viewer.
-
+cd Profile_viewer
+```
 3. install dependencies:
 ```bash
-npm install 
+npm install
+```
+4. Run the App using Expo
+   ```bash
+   expo start
+   ```
+   Notes
+The app is designed to work on both Android and iOS.
+You can view the code directly in the App.js file.
+
+
