@@ -36,4 +36,4 @@ exp://exp.host/@ajitesh_aarash/profile-viewer
 Demo of the App:
 
 
-![Some ScreenShots ](Screenshot_20240809_174509_Expo Go.jpg)
+![Some ScreenShots ](https://raw.githubusercontent.com/Ajitesh2003/Profile_viewer/Abir/Screenshot_20240809_174509_Expo%20Go.jpg)
